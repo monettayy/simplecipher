@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517623704 source:e:\asop\activity07\simplecipher\main.cpp
+	"SimpleCipher.h"
+
+1517623506 source:e:\asop\activity07\simplecipher\src\simplecipher.cpp
+	"SimpleCipher.h"
+
+1517623528 e:\asop\activity07\simplecipher\include\simplecipher.h
+	<iostream>
+	<utility>
+	<math.h>
+	<cstring>
+
